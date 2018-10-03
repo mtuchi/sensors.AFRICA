@@ -7,7 +7,6 @@ const styles = theme => ({
   root: {},
   card: {
     height: "600px",
-    width: "450px",
     backgroundColor: "#2FB56B",
     borderRadius: 0
   },
@@ -37,14 +36,6 @@ class HostCard extends Component {
   render() {
     const { classes } = this.props;
     return (
-      <Grid
-        container
-        item
-        xs={6}
-        direction="row"
-        align="center"
-        className={classes.root}
-      >
         <Card className={classes.card}>
           <CardContent className={classes.cardContent}>
             <Typography variant="display1" className={classes.display1}>
@@ -76,7 +67,6 @@ class HostCard extends Component {
             </p>
           </CardContent>
         </Card>
-      </Grid>
     );
   }
 }

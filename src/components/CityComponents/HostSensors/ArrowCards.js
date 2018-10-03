@@ -11,16 +11,24 @@ import {
   Button
 } from "@material-ui/core";
 import { withStyles } from "@material-ui/core/styles";
+import shadows from "@material-ui/core/styles/shadows";
 
 const styles = theme => ({
   findOutMore: {
     color: "#164B3E"
   },
-  buttonContained: {
+  browseMoreWrapper: {
+    width: "100%",
+    textAlign: "left",
+  },
+  buttonBrowseMore: {
     backgroundColor: "#2FB56B",
     color: "#fff",
     borderRadius: 0,
-    margin: theme.spacing.unit * 2
+    marginTop: theme.spacing.unit * 2,
+    marginBotton: theme.spacing.unit * 2,
+    marginLeft: "180px",
+    textTransform: "uppercase",
   },
   body2: {
     color: "black",
@@ -32,14 +40,7 @@ class ArrowCards extends Component {
   render() {
     const { classes } = this.props;
     return (
-      <Grid
-        container
-        item
-        xs={6}
-        direction="row"
-        justify="center"
-        className={classes.tweetGrid}
-      >
+      <React.Fragment>
         <Typography
           variant="body2"
           style={{ marginLeft: "4.5rem", color: "green" }}
@@ -140,16 +141,16 @@ class ArrowCards extends Component {
           </ListItem>
         </List>
 
-        <Grid container direction="row" justify="center">
+        <div className={classes.browseMoreWrapper}>
           <Button
             variant="contained"
             size="large"
-            className={classes.buttonContained}
-          >
-            BROWSE MORE
+            className={classes.buttonBrowseMore}
+            >
+            Browse More
           </Button>
-        </Grid>
-      </Grid>
+        </div>
+      </React.Fragment>
     );
   }
 }

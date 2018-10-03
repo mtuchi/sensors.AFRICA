@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import PropTypes from 'prop-types';
 import { Grid, Button } from "@material-ui/core";
 import { withStyles } from "@material-ui/core/styles";
 
@@ -53,5 +54,9 @@ class HostSensorButtons extends Component {
     );
   }
 }
+
+HostSensorButtons.propTypes = {
+  classes: PropTypes.object.isRequired,
+};
 
 export default withStyles(styles)(HostSensorButtons);
