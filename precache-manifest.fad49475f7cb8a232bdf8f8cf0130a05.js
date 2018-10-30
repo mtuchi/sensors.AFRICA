@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/static/media/innovateafrica_white.99377fdc.png"
   },
   {
-    "revision": "4f0fa97406e29289ef63",
-    "url": "/static/css/main.13213f40.chunk.css"
+    "revision": "94cb74bad644c799562c",
+    "url": "/static/css/main.a2093ad6.chunk.css"
   },
   {
-    "revision": "97e06f1e8ad1f1012892",
-    "url": "/static/js/1.97e06f1e.chunk.js"
+    "revision": "301c41fb25062d5681db",
+    "url": "/static/js/1.301c41fb.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/static/media/cfafrica_white.86c67ec2.png"
   },
   {
-    "revision": "4f0fa97406e29289ef63",
-    "url": "/static/js/main.4f0fa974.chunk.js"
+    "revision": "94cb74bad644c799562c",
+    "url": "/static/js/main.94cb74ba.chunk.js"
   },
   {
     "revision": "a2629fab5198906d93199b16c37acd32",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/static/media/outdooricon.e759f937.png"
   },
   {
-    "revision": "7d4c772a8b0ae7204c51311b76adcfc6",
+    "revision": "b9511668afd8362f5a77365a7af73549",
     "url": "/index.html"
   }
 ];
