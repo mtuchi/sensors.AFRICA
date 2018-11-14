@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "a2629fab5198906d93199b16c37acd32",
-    "url": "/static/media/star.a2629fab.jpg"
+    "revision": "be91cb0331eb28dba410d870b2708796",
+    "url": "/static/media/chege.be91cb03.png"
   },
   {
-    "revision": "48cb4dff5390da058af2",
-    "url": "/static/css/main.3e00edb5.chunk.css"
+    "revision": "2eb449e4df367cbf577f",
+    "url": "/static/css/main.e55844ed.chunk.css"
   },
   {
-    "revision": "12df02d54faa1da204e9",
-    "url": "/static/js/1.12df02d5.chunk.js"
+    "revision": "2abd29b03596a48d0762",
+    "url": "/static/js/1.2abd29b0.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -48,16 +48,16 @@ self.__precacheManifest = [
     "url": "/static/media/innovateafrica_white.99377fdc.png"
   },
   {
-    "revision": "48cb4dff5390da058af2",
-    "url": "/static/js/main.48cb4dff.chunk.js"
+    "revision": "a2629fab5198906d93199b16c37acd32",
+    "url": "/static/media/star.a2629fab.jpg"
   },
   {
     "revision": "018141ef5dd99ed1e459496ed61bafa4",
     "url": "/static/media/innovateafrica_gray.018141ef.jpg"
   },
   {
-    "revision": "be91cb0331eb28dba410d870b2708796",
-    "url": "/static/media/chege.be91cb03.png"
+    "revision": "2eb449e4df367cbf577f",
+    "url": "/static/js/main.2eb449e4.chunk.js"
   },
   {
     "revision": "e10b701849e0867038bd248d9caf86d2",
@@ -92,7 +92,27 @@ self.__precacheManifest = [
     "url": "/static/media/outdooricon.e759f937.png"
   },
   {
-    "revision": "a1547008f28097b23db97ed849d6c2d0",
+    "revision": "cc4262c07837e04eb4fc78101a10ac2b",
+    "url": "/static/media/healthimpacticon.cc4262c0.png"
+  },
+  {
+    "revision": "f772761ec5997c10d966b46159e3c9eb",
+    "url": "/static/media/climateimpacticon.f772761e.png"
+  },
+  {
+    "revision": "d58a40d654fe1f2ec91801ba2f688a4d",
+    "url": "/static/media/Risingtemperature.d58a40d6.png"
+  },
+  {
+    "revision": "8442a0ea4b57652b76ee906829319ae5",
+    "url": "/static/media/snowmelt.8442a0ea.png"
+  },
+  {
+    "revision": "f7a4098b15104eb17078c74442658d7f",
+    "url": "/static/media/cropdamage.f7a4098b.png"
+  },
+  {
+    "revision": "0092f2104c870405a37c37e0f9ef27a6",
     "url": "/index.html"
   }
 ];
