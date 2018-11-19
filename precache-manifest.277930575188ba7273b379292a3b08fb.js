@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/chege.be91cb03.png"
   },
   {
-    "revision": "e25640039e4b5b6d4697",
+    "revision": "f59bdc5415554053f4ba",
     "url": "/static/css/main.dadfa1a2.chunk.css"
   },
   {
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/static/media/innovateafrica_gray.018141ef.jpg"
   },
   {
-    "revision": "e25640039e4b5b6d4697",
-    "url": "/static/js/main.e2564003.chunk.js"
+    "revision": "f59bdc5415554053f4ba",
+    "url": "/static/js/main.f59bdc54.chunk.js"
   },
   {
     "revision": "e10b701849e0867038bd248d9caf86d2",
@@ -112,7 +112,7 @@ self.__precacheManifest = [
     "url": "/static/media/cropdamage.f7a4098b.png"
   },
   {
-    "revision": "3714c3f42b3ece1eefb4845c2b0b702c",
+    "revision": "21a152feddd1cd3cebff069bcfafb6fd",
     "url": "/index.html"
   }
 ];
