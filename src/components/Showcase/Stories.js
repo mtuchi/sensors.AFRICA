@@ -84,7 +84,7 @@ const data = [
   {
     index: 7,
     image:
-      'http://www.niemanlab.org/images/Hindustan-Times-air-quality-map-990x595.png',
+      'https://www.niemanlab.org/images/Hindustan-Times-air-quality-map-990x595.png',
     date: 'May 18, 2016',
     title:
       'The Hindustan Times is working to build the definitive online source of real-time air quality in all of India',
@@ -106,7 +106,7 @@ const data = [
   {
     index: 9,
     image:
-      'http://media.bizj.us/view/img/3196721/durhamlabsmobileairsensorcreditannielangan.jpg',
+      'https://media.bizj.us/view/img/3196721/durhamlabsmobileairsensorcreditannielangan.jpg',
     date: 'Jul 15, 2014',
     title: 'City partners with local engineers on air-quality initiative',
     body:
