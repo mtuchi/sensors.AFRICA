@@ -73,13 +73,13 @@ const data = [
   {
     index: 6,
     image:
-      'http://www.designindaba.com/sites/default/files/styles/large/public/node/news/22257/gallery/buggyairkit11.jpg?itok=XepjELQt',
+      'https://www.designindaba.com/sites/default/files/styles/large/public/node/news/22257/gallery/buggyairkit11.jpg?itok=XepjELQt',
     date: '21 Nov 2019',
     title: 'BuggyAir: A mobile air pollution tracker',
     body:
       'This air pollution testing kit helps parents make informed decisions about the type of environments they expose their children to....',
     link:
-      'http://www.designindaba.com/articles/creative-work/buggyair-mobile-air-pollution-tracker'
+      'https://www.designindaba.com/articles/creative-work/buggyair-mobile-air-pollution-tracker'
   },
   {
     index: 7,
@@ -91,7 +91,7 @@ const data = [
     body:
       'In addition to pulling in data from government stations for its map, the organization is deploying and testing its own air quality sensors across the country...',
     link:
-      'http://www.niemanlab.org/2016/05/the-hindustan-times-is-working-to-build-the-definitive-online-source-of-real-time-air-quality-in-all-of-india/'
+      'https://www.niemanlab.org/2016/05/the-hindustan-times-is-working-to-build-the-definitive-online-source-of-real-time-air-quality-in-all-of-india/'
   },
   {
     index: 8,
