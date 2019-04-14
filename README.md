@@ -1,5 +1,7 @@
 # sensors.AFRICA
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/CodeForAfrica/sensors.AFRICA.svg)](https://greenkeeper.io/)
+
 [sensors.AFRICA](https://sensors.africa/) is a citizen-science focused project by [Code for Africa](https://twitter.com/Code4Africa/) that seeks to address data gaps by providing low cost sensors, which people can use to measure and monitor the quality of the air, water, and sound in their communities.
 
 Are you interested in working with us, using our data, or learning more about what we do? Please fill in [this form](https://goo.gl/forms/4yc0iu2hUH8iSg4v2) and we'll get back to you ASAP.
