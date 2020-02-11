@@ -19,6 +19,7 @@ import Air, {
 } from './pages/air';
 
 import { AirMap, AirGraph, AirGauge } from './components/Embeds';
+import HeatMap from './components/HeatMap';
 
 const FONT_FAMILY = '"Montserrat", "sans-serif"';
 const HEADINGS_FONT_FAMILY = '"Anton", "sans-serif"';
@@ -169,6 +170,7 @@ function App() {
                 />
               )}
             />
+            <Route path="/heatmap" component={HeatMap} />
             <Route
               render={props => <NotFound {...props} url={URLS.NOT_FOUND} />}
             />
